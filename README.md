@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm IT-Incubator student
+### looking for job as BACKEND developer
 
 <!--
 **fateevanastusha/fateevanastusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
