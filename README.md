@@ -1,5 +1,6 @@
 ### Hi there 👋
-### looking for job as BACKEND developer
+### looking for job as BACKEND(node js express) developer
+### english - B1+
 
 <!--
 **fateevanastusha/fateevanastusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
