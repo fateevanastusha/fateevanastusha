@@ -1,5 +1,5 @@
 ### Hi there 👋
-### looking for job as BACKEND(node js express) developer
+### looking for job as BACKEND(node js express ) developer
 ### english - B1+
 
 <!--
