@@ -1,6 +1,5 @@
 ### Hi there 👋
-### looking for job as BACKEND(node js express ) developer
-### english - B1+
+### I'm BACKEND Junior Developer in Cyberia-Tech
 
 <!--
 **fateevanastusha/fateevanastusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
