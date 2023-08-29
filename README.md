@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm BACKEND Junior Developer in Cyberia-Tech
+### I'm BACKEND Developer in Cyberia-Tech
 
 <!--
 **fateevanastusha/fateevanastusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
